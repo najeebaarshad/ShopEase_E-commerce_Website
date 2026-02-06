@@ -1,6 +1,6 @@
 # 🛍️ ShopEase — E-commerce Website
 
-**ShopEase** is a static, front-end **E-commerce website** project built using **HTML, CSS**, and basic client-side functionality. It showcases a simple online shopping interface where users can view products, add items to a cart, and navigate through typical pages of an e-commerce platform. :contentReference[oaicite:1]{index=1}
+**ShopEase** is a static, front-end **E-commerce website** project built using **HTML, CSS**, and basic client-side functionality. It showcases a simple online shopping interface where users can view products, add items to a cart, and navigate through typical pages of an e-commerce platfor.
 
 ---
 

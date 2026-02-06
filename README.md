@@ -1,6 +1,6 @@
 # 🛍️ ShopEase — E-commerce Website
 
-**ShopEase** is a static, front-end **E-commerce website** project built using **HTML, CSS**, and basic client-side functionality. It showcases a simple online shopping interface where users can view products, add items to a cart, and navigate through typical pages of an e-commerce platfor.
+**ShopEase** is a static, front-end **E-commerce website** project built using **HTML, CSS**, and basic client side functionality. It showcases a simple online shopping interface where users can view products, add items to a cart, and navigate through typical pages of an e-commerce platform.
 
 ---
 
@@ -16,9 +16,9 @@
 ✔ Static **shopping cart page UI**  
 ✔ Login & signup page mockups  
 ✔ Admin panel prototype layout  
-✔ Clean and responsive design using CSS — easy to extend
+✔ Clean and responsive design using CSS
 
-> 📌 Note: This is currently a **static front-end project**. It does not include backend logic, database integration, or payment processing.
+> 📌 Note: This is currently a **static frontend project**. It does not include backend logic, database integration, or payment processing.
 
 ---
 
